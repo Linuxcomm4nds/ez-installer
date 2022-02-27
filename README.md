@@ -3,7 +3,7 @@ This is on how to install my ez linux command script
 
 ## EASIEST INSTALLATION
 
->Download and run the installer file with bash installer.sh
+>Download and run the installer file with **_bash installer.sh_**
 
 ## MANUAL INSTALLATION
 
