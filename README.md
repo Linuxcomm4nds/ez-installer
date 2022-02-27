@@ -20,6 +20,9 @@ Make it executable
 
 if you dont have some third party packages installed it wont work here is a list of all programs and how it install them
 >nmap (sudo apt install nmap)
+>
 >openvpn (sudo apt install openvpn)
+>
 >anonsurf(https://www.geeksforgeeks.org/how-to-setup-and-use-anonsurf-on-kali-linux/)
+>
 ## DONE!
